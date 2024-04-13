@@ -1,3 +1,7 @@
+# Project-1-Junk-Food-Tax
+
+## The code for this project is broken out by the person in our named files. 
+
 # Project Requirements
 
 This README outlines the requirements and grading criteria for the completion of the project.
